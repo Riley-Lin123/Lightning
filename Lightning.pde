@@ -71,7 +71,6 @@ void draw() {
     if (fadePresence == true) {
       fill(50);
       noStroke();
-      delay(80);
       rect(0, 0, 500, 500);
 
     } else  {
